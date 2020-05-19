@@ -1,0 +1,1 @@
+![resultado desafio modulo 2](../../resultados/ex_02.png)
