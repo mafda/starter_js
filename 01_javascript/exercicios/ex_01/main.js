@@ -1,5 +1,6 @@
 // ============ 1º exercício ================================
 
+console.log('=============== 1º exercício ===============')
 var endereco = {
   rua: "Rua dos pinheiros",
   numero: 1293,
@@ -22,6 +23,7 @@ enderecoUsuario(endereco);
 
 // ============ 2º exercício ================================
 
+console.log('=============== 2º exercício ===============')
 function pares(x, y) {
   for (var i = x; i <= y; i++) {
     if (i % 2 == 0) {
@@ -34,6 +36,7 @@ pares(1, 10);
 
 // ============ 3º exercício ================================
 
+console.log('=============== 3º exercício ===============')
 function temHabilidade(skills) {
   // código aqui
   return skills.indexOf('Javascript') == 0;
@@ -44,6 +47,7 @@ console.log(temHabilidade(skills)); // true ou false
 
 // ============ 4º exercício ================================
 
+console.log('=============== 4º exercício ===============')
 function experiencia(anos) {
   // código aqui
   if (0 < anos && anos <= 1) {
@@ -55,11 +59,11 @@ function experiencia(anos) {
   if (3 < anos && anos <= 6) {
     console.log('Avanzado');
   }
-  if (anos > 7) {
+  if (anos >= 7) {
     console.log('Jedi Master');
   }
 }
-var anosEstudo = 9;
+var anosEstudo = 7;
 experiencia(anosEstudo);
 // De 0-1 ano: Iniciante
 // De 1-3 anos: Intermediário
@@ -68,6 +72,7 @@ experiencia(anosEstudo);
 
 // ============ 5º exercício ================================
 
+console.log('=============== 5º exercício ===============')
 var usuarios = [
   {
     nome: "Diego",

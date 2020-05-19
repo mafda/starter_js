@@ -1,5 +1,6 @@
 // 1º exercício
 
+console.log('=============== 1º exercício ===============')
 function checaIdade(idade) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
