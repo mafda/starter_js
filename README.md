@@ -11,7 +11,17 @@
 
 ## Curso JavaScript ES6
 
+* Conceitos [Desafio]()
+* Webpack Server [Desafio]()
+* Async/await [Desafio]()
+* App ES6+ [Exemplo]()
+
 ## NodeJS
+
+* node-app [back-end](https://github.com/mafda/starter_js/tree/master/03_node_js/node-api)
+  * Para testar o projeto "node-app", instale o [Insomnia](https://insomnia.rest/) ou execute via docker container [docker-insomnia](https://github.com/camiloariza/docker-insomnia).
+  * Para testar a base de dados, instale o [MongoDB](https://www.mongodb.com/) ou execute via docker container [mongo](https://hub.docker.com/_/mongo).
+  * Para visualizar a base de dados, instale [Robo 3T](https://robomongo.org/).
 
 ## ReactJS
 
