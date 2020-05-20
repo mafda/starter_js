@@ -1,1 +1,1 @@
-![javascript es6](../../js_es6.png)
+![javascript es6](../../resultados/js_es6.png)
