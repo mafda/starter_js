@@ -18,6 +18,8 @@
 
 ## NodeJS
 
+[Node.js](https://nodejs.org/): Plataforma para criar facilmente aplicativos de rede rápidos e escaláveis.
+
 * node-app [Back-end](https://github.com/mafda/starter_js/tree/master/03_node_js/node-api)
   * Para testar o projeto "node-app", instale o [Insomnia](https://insomnia.rest/) ou execute via docker container [docker-insomnia](https://github.com/camiloariza/docker-insomnia).
   * Para testar a base de dados, instale o [MongoDB](https://www.mongodb.com/) ou execute via docker container [mongo](https://hub.docker.com/_/mongo).
@@ -25,7 +27,12 @@
 
 ## ReactJS
 
+[React.js](https://reactjs.org/): Biblioteca JavaScript para criar interfaces de usuário.
+
 ## React Native
+
+[React Native](https://reactnative.dev/): Cria aplicativos nativos para Android e iOS.
+
 
 ---
 
