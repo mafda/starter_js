@@ -2,14 +2,14 @@
 
 [pt-BR] Solução dos desafios JavaScript propostos durante o [Curso Starter](https://skylab.rocketseat.com.br/journey/starter) da [RocketSeat](https://rocketseat.com.br/). 
 
-## Curso JavaScript
+## JavaScript
 
 * Introdução JavaScript [Desafio](https://github.com/mafda/starter_js/tree/master/01_javascript/exercicios/ex_01)
 * Manipulando a DOM [Desafio](https://github.com/mafda/starter_js/tree/master/01_javascript/exercicios/ex_02)
 * App de to-do [Exemplo](https://github.com/mafda/starter_js/tree/master/01_javascript/exemplos/todos)
 * JS assíncrono [Exemplo](https://github.com/mafda/starter_js/tree/master/01_javascript/exemplos/axios), [Desafio](https://github.com/mafda/starter_js/tree/master/01_javascript/exercicios/ex_04)
 
-## Curso JavaScript ES6
+## JavaScript ES6
 
 * Conceitos [Desafio]()
 * Webpack Server [Desafio]()
@@ -28,6 +28,9 @@
 ## ReactJS
 
 [React.js](https://reactjs.org/): Biblioteca JavaScript para criar interfaces de usuário.
+
+* huntweb [Front-end](https://github.com/mafda/starter_js/tree/master/04_react_js/huntweb).
+  * Para testar o projeto "huntweb", instale node-app [Back-end](https://github.com/mafda/starter_js/tree/master/03_node_js/node-api).
 
 ## React Native
 
