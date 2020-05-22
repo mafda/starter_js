@@ -6,3 +6,9 @@
 
 ### MongoDB and Robo 3T
 ![MongoDB and Robo 3T](../resultados/robo3t.png)
+
+---
+
+```
+npm run dev
+```
