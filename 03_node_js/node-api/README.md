@@ -8,9 +8,9 @@ docker run --name mongodb -p 27017:27017 -d --rm mongo
 docker ps -a
 ```
 
-![insomnia](../resultados/insomnia.png)
-
 ![MongoDB and Robo 3T](../resultados/robo3t.png)
+
+![insomnia](../resultados/insomnia.png)
 
 * Localhost
 
