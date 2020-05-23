@@ -38,6 +38,7 @@
 
 * huntmobile [Mobile](https://github.com/mafda/starter_js/tree/master/05_react_native/huntmobile)
   * Para testar o projeto "huntweb", instale node-app [Back-end](https://github.com/mafda/starter_js/tree/master/03_node_js/node-api).
+  * Para visualizar, instale [Expo](https://expo.io).
 
 
 ### Resultados
