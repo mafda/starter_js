@@ -2,7 +2,7 @@
 
 * **Back-end**
 
-  * MongoDB, Robo 3T and Insomnia
+* MongoDB, Robo 3T and Insomnia
 
 ```
 docker pull mongo
@@ -10,7 +10,7 @@ docker run --name mongodb -p 27017:27017 -d --rm mongo
 docker ps -a
 ```
 
-  * Localhost
+* Localhost
   
 ```
 cd node-api
@@ -24,6 +24,4 @@ cd huntweb
 npm start
 ```
 
-![reactjs](../resultados/reactjs1.png)
-
-![reactjs](../resultados/reactjs2.png)
+![reactjs](../resultados/reactjs.png)
