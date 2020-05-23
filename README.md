@@ -11,9 +11,9 @@
 
 ## JavaScript ES6
 
-* Conceitos [Desafio]()
-* Webpack Server [Desafio]()
-* Async/await [Desafio]()
+* Conceitos [Desafio](https://github.com/mafda/starter_js/tree/master/02_javascript_es6/exercicios/ex_01)
+* Webpack Server [Desafio](https://github.com/mafda/starter_js/tree/master/02_javascript_es6/exercicios/ex_02)
+* Async/await [Desafio](https://github.com/mafda/starter_js/tree/master/02_javascript_es6/exercicios/ex_03)
 * App ES6+ [Exemplo](https://github.com/mafda/starter_js/tree/master/02_javascript_es6/exemplos/app_es6)
 
 ## NodeJS
