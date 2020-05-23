@@ -40,6 +40,12 @@
   * Para testar o projeto "huntweb", instale node-app [Back-end](https://github.com/mafda/starter_js/tree/master/03_node_js/node-api).
 
 
+### Resultados
+
+* huntweb - huntmobile
+
+![huntweb_huntmobile.png](05_react_native/resultados/huntweb_huntmobile.png)
+
 ---
 
 ### Agradecimentos
